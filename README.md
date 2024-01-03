@@ -1,21 +1,16 @@
 # Hi there! 👋
 
-I'm Your Name, a passionate developer from [Your Location](https://www.example.com).
+I'm Nikhitha, a budding developer from Velammal College of Engineering and Technology , Madurai.
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+
 
 ## 🚀 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-## 🎥 Recent YouTube Videos
-[![Video Title](https://img.youtube.com/vi/your_video_id/0.jpg)](https://www.youtube.com/watch?v=your_video_id)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhithasv&show_icons=true&theme=radical)
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/your-twitter-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/nikhitha-vasudevan-b2382a252/))
+[![Email](https://tse1.mm.bing.net/th?id=OIP.IpB5yPUkCFHOzlmM-O7ncAHaFW&pid=Api&P=0&h=220)](https://twitter.com/your-twitter-handle)
 
 <!-- Animated GIF -->
 ![GIF](https://media.giphy.com/media/your-gif-id/giphy.gif)

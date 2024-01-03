@@ -27,6 +27,3 @@ I'm Nikhitha, a budding developer from Velammal College of Engineering and Techn
 - Internet of Things (IoT)
 - Machine Learning
 
-<!-- Working GIFs -->
-![Working GIF 1](https://media.giphy.com/media/your-gif-id1/giphy.gif)
-![Working GIF 2](https://media.giphy.com/media/your-gif-id2/giphy.gif)

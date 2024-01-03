@@ -10,7 +10,7 @@ I'm Nikhitha, a budding developer from Velammal College of Engineering and Techn
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/nikhitha-vasudevan-b2382a252/))
-[![Email](https://tse1.mm.bing.net/th?id=OIP.IpB5yPUkCFHOzlmM-O7ncAHaFW&pid=Api&P=0&h=220)](https://twitter.com/your-twitter-handle)
+[![Email](https://tse1.mm.bing.net/th?id=OIP.IpB5yPUkCFHOzlmM-O7ncAHaFW&pid=Api&P=0&h=220)](https://twitter.com/your-twitter-handle)]
 
 <!-- Animated GIF -->
 ![GIF](https://media.giphy.com/media/your-gif-id/giphy.gif)

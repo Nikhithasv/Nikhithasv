@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on datascience<br>👯 I’m looking to collaborate on machine learning and IoT<br>
+🔭 I’m currently working on datascience<br>👯 I’m looking to collaborate on machine learning and IoT.<br>
 
 
 ## 🌐 Socials:
